@@ -1,0 +1,5 @@
+SOLID - 
+
+DRY - 
+
+KISS - 
